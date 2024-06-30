@@ -2,9 +2,7 @@
 
 # [nealmick.com](https://nealmick.com)
 
-<img src="https://cdn.nealmick.com/portfolio/project_images/icon512_aHCO2wJ.jpg" alt="alt text" height="50" style="width:auto;">
-
-#### [Chat4u.io](https://chat4u.io/) - Chrome extension negotiates with Xfinity, and Geico to get discounts using GPT
+#### <img src="https://cdn.nealmick.com/portfolio/project_images/icon512_aHCO2wJ.jpg" alt="alt text" height="50" style="width:auto;"> [Chat4u.io](https://chat4u.io/) - Chrome extension negotiates with Xfinity, and Geico to get discounts using GPT
 
 #### [Firebet.ai](https://firebet.ai/)
 
