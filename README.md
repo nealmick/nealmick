@@ -2,7 +2,7 @@
 
 # [nealmick.com](https://nealmick.com)
 
-![alt text](https://cdn.nealmick.com/portfolio/project_images/icon512_aHCO2wJ.jpg)
+![alt text](https://cdn.nealmick.com/portfolio/project_images/icon512_aHCO2wJ.jpg | height=100)
 #### [Chat4u.io](https://chat4u.io/) - Chrome extenesion negotiates with Xfinity, and Geico to get discounts using GPT
 
 #### [Firebet.ai](https://firebet.ai/)
