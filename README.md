@@ -2,7 +2,7 @@
 
 # [nealmick.com](https://nealmick.com)
 
-#### [Chat4u.io](https://chat4u.io/) - Chrome extension negotiates with Xfinity, and Geico to get discounts using GPT
+#### [Chat4u.io](https://chat4u.io/) - Negotiate discounts from companies like Xfinity and Geico using GPT
 
 #### [Firebet.ai](https://firebet.ai/) - Machine Leanring Sports analytics 
 
