@@ -1,4 +1,4 @@
 
 
-# [Website](https://nealmick.com)
+# [About me](https://nealmick.com)
 
