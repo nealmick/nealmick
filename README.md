@@ -1,3 +1,4 @@
+# [nealmick.com](https://nealmick.com)
 <!--- https://foliolink.me/ --->
 [![image1](https://r2.foliolink.me/portfolio/portfolio/github/1/image1.png?)](https://firebet.ai/)
 [![image2](https://r2.foliolink.me/portfolio/portfolio/github/1/image2.png?)](https://recipe-genie.xyz/)
@@ -8,4 +9,4 @@
 [![image5](https://r2.foliolink.me/portfolio/portfolio/github/1/image5.png?)](https://launchba.se/)
 [![image6](https://r2.foliolink.me/portfolio/portfolio/github/1/image6.png?)](https://squashbug.xyz/)
 <br>
-# [nealmick.com](https://nealmick.com)
+foliolink.me
