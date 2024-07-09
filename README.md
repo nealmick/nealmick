@@ -1,40 +1,11 @@
 <!--- https://foliolink.me/ --->
-<table>
-    <tr>
-        <td>
-            <a href="https://firebet.ai/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image1.png?" width="300"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://recipe-genie.xyz/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image2.png?" width="300"/>
-            </a>
-        </td>
-    </tr> 
-     <tr>
-        <td>
-            <a href="https://pro-note.xyz/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image3.png?" width="300"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://chat4u.io/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image4.png?" width="300"/>
-            </a>
-        </td>
-    </tr> 
-     <tr>
-        <td>
-            <a href="https://launchba.se/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image5.png?" width="300"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://squashbug.xyz/">
-                <img src="https://r2.foliolink.me/portfolio/portfolio/github/1/image6.png?" width="300"/>
-            </a>
-        </td>
-    </tr> 
- </table>
+[![image1](https://r2.foliolink.me/portfolio/portfolio/github/1/image1.png?)](https://firebet.ai/)
+[![image2](https://r2.foliolink.me/portfolio/portfolio/github/1/image2.png?)](https://recipe-genie.xyz/)
+<br>
+[![image3](https://r2.foliolink.me/portfolio/portfolio/github/1/image3.png?)](https://pro-note.xyz/)
+[![image4](https://r2.foliolink.me/portfolio/portfolio/github/1/image4.png?)](https://chat4u.io/)
+<br>
+[![image5](https://r2.foliolink.me/portfolio/portfolio/github/1/image5.png?)](https://launchba.se/)
+[![image6](https://r2.foliolink.me/portfolio/portfolio/github/1/image6.png?)](https://squashbug.xyz/)
+<br>
 # [nealmick.com](https://nealmick.com)
