@@ -9,4 +9,4 @@
 [![image5](https://r2.foliolink.me/portfolio/portfolio/github/1/image5.png?)](https://squashbug.xyz/)
 [![image6](https://r2.foliolink.me/portfolio/portfolio/github/1/image6.png?)](https://launchba.se/)
 <br>
-[foliolink.me](https://foliolink.me/app/dash) - live updating readme, by nealmick
+[foliolink.me](https://foliolink.me/app/dash) - live updating readme 
