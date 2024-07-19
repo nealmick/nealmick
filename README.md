@@ -1,1 +1,1 @@
-# [nealmick.com](https://nealmick.com)
+[nealmick.com](https://nealmick.com)
